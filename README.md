@@ -1,15 +1,11 @@
 <h1 align="center">👋 Hi, I'm Bhuvana!</h1>
 
 <p align="center">
-  <b>🔍 Uncovering patterns, making predictions, and solving problems—I'm a Data Scientist.</b>
+  <b>🔍 Welcome to my space where I share my journey through the fascinating world of data science! Yes, I'm a Data Scientist.</b>
 </p>
 
 <p align="center">
-  <b>🎓 I hold a Master's in Data Science and a Bachelor's in Computer Science.</b>
-</p>
-
-<p align="center">
-  <b>🌟 Welcome to my space where I share my journey through the fascinating world of data science!</b>
+  <b>🎓 I hold a Master's Degree in Data Science and a Bachelor's in Computer Science.</b>
 </p>
 
 <p align="center">
